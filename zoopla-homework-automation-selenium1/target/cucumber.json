@@ -1,0 +1,60 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-08-04T16:42:12.574Z",
+        "line": 4,
+        "name": "As Automation user,i can Successfully login with valid credential",
+        "description": "",
+        "id": "login-function-testing;as-automation-user-i-can-successfully-login-with-valid-credential",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3899000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "open browser and send URL",
+            "match": {
+              "location": "com.stepdefination.Mystepdefination.getsetup()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6829000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "lolgin with valid credentials",
+            "match": {
+              "location": "com.stepdefination.Mystepdefination.getlogin()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 770000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Check login was success",
+            "match": {
+              "location": "com.stepdefination.Mystepdefination.getvalidation()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "login function testing",
+    "description": "Description: pass must be 6 characture",
+    "id": "login-function-testing",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Login.feature",
+    "tags": []
+  }
+]

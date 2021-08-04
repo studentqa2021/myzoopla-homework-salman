@@ -1,0 +1,15 @@
+com\generic\Baselogin.class
+com\practice\TestingCrossBrowser.class
+com\util\ScreenShot.class
+com\excel\manager\ReadExcel3.class
+com\practice\ParallelBrowser1.class
+com\excel\manager\ReadExcel2.class
+com\practice\ParallelBrowser2.class
+com\util\BaseConfig.class
+com\practice\ParallelBrowser3.class
+com\generic\MasterPageFactory.class
+com\excel\manager\ReadExcel.class
+com\practice\CrossBrowserWithTestng.class
+com\practice\Animal.class
+com\generic\Drivermanager.class
+com\util\HighLighter.class
