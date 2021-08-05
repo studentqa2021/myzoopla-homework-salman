@@ -33,6 +33,6 @@ public void getExcel(int rowindex,int columnindex) throws IOException   {
 	
 }
 public static void main(String[] args) throws IOException {
-	new ReadExcel2().getExcel(3,3);
+	new ReadExcel2().getExcel(2,2);
 }
 }
